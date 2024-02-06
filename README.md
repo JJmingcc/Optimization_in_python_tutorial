@@ -8,5 +8,6 @@ This repo is to introduce very helpful mathematical programming tool (Gurobipy).
 
 ##
 **file**
-- **Gurobipy_tutorial.ipynb**: step-by-step tutorials to generate mathmatical programming model
+- **Gurobipy_tutorial.ipynb**: step-by-step tutorials to generate mathmatical programming model by using Gurobipy
 - **CVPR.ipynb**: Real-world examples: capacitated vechicle routing problem
+- **Pyomo.ipynb**: step-by-step tutorials to generate mathmatical programming model by Pyomo
